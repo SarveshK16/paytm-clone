@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Dependency lock files
+package.json
+package-lock.json
+
+# IDE and editor files
+.vscode/
+
+# Secret files
+.env
+
+
+# Linter output
+*.lint
